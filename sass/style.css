@@ -1,0 +1,19 @@
+header {
+	min-height: 50px;
+	text-align: right;
+	color: #ccc;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+ul {
+	display: flex;
+	list-style-type: none;
+	width: 15vw;
+	flex-direction: row;
+	justify-content: space-between;
+}
+nav ul li a{
+	text-decoration: none;
+	color: #000000;
+}
